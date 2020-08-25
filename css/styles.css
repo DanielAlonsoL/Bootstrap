@@ -55,3 +55,19 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.modal-header{
+  background:#512DA8;
+}
+
+.modal-title{
+  color: #ffffff;
+}
+
+.modal-body{
+  background:#D1C4E9;
+}
+
+.close{
+  color:#ffffff;
+}
